@@ -1,10 +1,6 @@
 ## Hi👋 I'm Miranda
 
 
-<!--
-**mirandamaisnam/mirandamaisnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 🎓 B.Tech Student | Aspiring Data Analyst  
 📍 India  
 
@@ -45,4 +41,4 @@ I enjoy working with real-world datasets and converting data into meaningful ins
 ### 📫 Contact
 - LinkedIn: <http://linkedin.com/in/maisnam-miranda>
 - Email: <mirandamaisnam334@gmail.com>
--->
+
